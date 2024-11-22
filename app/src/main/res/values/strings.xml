@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShowTheWeather</string>
+    <string name="textViewMainText">Кис метио</string>
+</resources>
